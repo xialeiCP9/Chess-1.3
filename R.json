@@ -1,0 +1,24 @@
+{
+	"images": [
+		{"name":"ba","url": "images/ba.gif"},
+		{"name":"bb","url": "images/bb.gif"},
+		{"name":"bc","url": "images/bc.gif"},
+		{"name":"bk","url": "images/bk.gif"},
+		{"name":"bkm","url": "images/bkm.gif"},
+		{"name":"bn","url": "images/bn.gif"},
+		{"name":"br","url": "images/br.gif"},
+		{"name":"bp","url": "images/bp.gif"},
+		{"name":"board","url": "images/board.jpg"},
+		{"name":"oo","url": "images/oo.gif"},
+		{"name":"oos","url": "images/oos.gif"},
+		{"name":"ra","url": "images/ra.gif"},
+		{"name":"rb","url": "images/rb.gif"},	
+		{"name":"rc","url": "images/rc.gif"},
+		{"name":"rk","url": "images/rk.gif"},
+		{"name":"rkm","url": "images/rkm.gif"},
+		{"name":"rn","url": "images/rn.gif"},
+		{"name":"rp","url": "images/rp.gif"},
+		{"name":"rr","url": "images/rr.gif"},
+		{"name":"thinking","url": "images/thinking.gif"}
+	]
+}
